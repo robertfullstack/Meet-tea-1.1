@@ -17,3 +17,5 @@ Além disso, o aplicativo oferece uma variedade de recursos personalizáveis, pe
 <p> <a href="https://meet-tea-1-1.vercel.app/">Live Demo</a></p>
 
 <p>Desenvolvedores: <address>Isabella da Silva Gonçalves, Julia Santos Bongiovani de Oliveira, Marcos Teixeira Dutra Junior e Robert Guimarrães Silva</address></p>
+
+<h6>Projeto da Faculdade</h6>
